@@ -1,0 +1,63 @@
+#0277BD; /*azul fuerte login*/
+#E1F5FE; /*azul bajo login*/
+
+#00A6D4; /*boton azul login */
+
+
+-------------------------------------------------------------
+datos
+
+Avenida Universidad Nte #5 Secc. 1ra Zacatelco CP. 90740
+Teléfono: +(52) 222 710 6510 <br>
+Email: sutec.st@gmail.com
+
+---------------------------------------------------------------
+icono
+/images/sutec-logo2.png"
+
+---------------------------------------------------
+
+header
+14916
+14994
+14962
+#ffec07 -Amarillo
+
+14827 -selector
+#00A6D4
+
+over
+170
+#0277BD
+
+tres lineas
+14971
+usuario
+15018
+#000
+
+--------------------------------
+letra dash board
+#00A6D4
+164
+
+
+---------------------------------
+Verificar datos
+
+dep($_POST);
+die()
+
+dep($_POST);
+exit;
+
+print_r($Variable);
+
+var_dump($Variable);
+
+-Productos
+dep(this->getProductosCategoriaT($categoria));
+
+dep($Variable);
+
+-
